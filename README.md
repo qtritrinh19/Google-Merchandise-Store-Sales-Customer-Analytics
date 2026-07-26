@@ -39,4 +39,30 @@ The analysis begins by assessing overall business performance across time, marke
 
 ### Monthly Revenue Trends
 
-!
+<p align="center">
+  <img src="./assets/Monthly_Revenue_Trends.png" width="800">
+</p>
+
+- Monthly revenue fluctuated between approximately $250K and $500K throughout 2019, with a clear increase during the year-end holiday season. November and December recorded the highest revenue, indicating strong seasonal demand toward the end of the year.
+
+- In contrast, order volume remained relatively stable throughout the year. The revenue slowdown in May and June was therefore driven primarily by a significant decline in AOV, rather than a substantial drop in order volume. This suggests that the main opportunity during weaker periods is to increase spend per order rather than simply generate more transactions.
+
+### Key Market Performance
+
+<p align="center">
+  <img src="./assets/Key_Market_Performance.png" width="800">
+</p>
+
+- Chicago is the strongest-performing market, generating higher revenue and order volume than both California and New York. While California and New York have larger market potential, their lower performance suggests opportunities to improve customer conversion, product penetration, and spend per order.
+
+- In contrast, New Jersey and Washington DC generate lower revenue in line with their smaller market scale, suggesting that their performance should be evaluated in the context of market size rather than directly compared with larger markets.
+
+### Revenue Contribution by Category
+
+<p align="center">
+  <img src="./assets/Revenue_Contribution_by_Category.png" width="800">
+</p>
+
+- Revenue and order volume are heavily concentrated in Nest-USA and Apparel, but the two categories play distinct roles. Nest-USA is the primary revenue driver, combining high order volume with a strong AOV, while Apparel generates substantial order volume but at a considerably lower AOV.
+
+- Meanwhile, Nest and Nest-Canada demonstrate strong customer spending potential, achieving the highest AOVs despite lower order volumes. This suggests that the broader Nest portfolio may provide opportunities to increase basket value and customer spending beyond the core Nest-USA category.
