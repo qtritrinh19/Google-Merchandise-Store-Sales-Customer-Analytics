@@ -17,3 +17,7 @@ The project focuses on three key areas:
 The analysis leverages **Power Query**, **PivotTables**, and **Power Pivot** in **Microsoft Excel**, alongside **RFM segmentation** and **Association Rule Mining** in **R**, to transform raw transactional data into actionable business insights and strategic recommendations.
 
 **Data Source:** [Marketing Insights for E-Commerce Company — Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
+
+## Data Structure & Initial Checks
+
+![Database Schema](./assets/data.svg)
