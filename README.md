@@ -125,4 +125,58 @@ While product analysis explains what drives revenue and where additional sales o
 
 ### Customer Lifecycle Performance Analysis
 
-<p align="center"> <img src="./assets/customer-lifecycle-performance.png" width="850"> </p>
+<p align="center"> <img src="./assets/Customer_Lifecycle_Performance_Analysis.png" width="850"> </p>
+
+- Customer retention improved from a January acquisition baseline into a stronger repeat-purchase pattern by mid-year. Since the dataset begins in January, all customers who made their first purchase during January are treated as newly acquired customers, providing the baseline for evaluating subsequent retention.
+
+- **Customer acquisition was concentrated in the first half of the year, while Returning Customers and Retained Customers continued to increase, reaching their highest levels in August**. Retention Rate also peaked at 27.54% in August, indicating the strongest repeat-purchase performance during the year.
+
+- However, **retention weakened during Q4 and stabilized at approximately 15%**, suggesting that the improvement in customer loyalty observed during the middle of the year was not fully sustained toward year-end. This indicates a potential gap between acquiring customers and maintaining long-term engagement.
+
+### Customer Segmentation
+
+<p align="center"> <img src="./assets/Customer_Segmentation.png" width="850"> </p>
+
+- **The customer base shows a significant retention risk**, with 51.22% of customers classified as either Lost (28.13%) or At Risk (23.09%), compared with only 26.23% classified as Champions. This indicates that a substantial share of the customer base is either no longer active or showing signs of declining engagement.
+
+- **Customer health also varies across markets**. Chicago has the strongest Champion presence, with 132 Champions, consistent with its leading revenue and order volume. This suggests that Chicago's strong business performance is supported not only by market scale but also by a relatively stronger base of high-value customers. In contrast, California presents a significant opportunity to recover existing customer value. Despite having a large customer base, it has the highest numbers of Lost (133) and At Risk (114) customers. This indicates that a considerable amount of established customer value may be at risk of being lost.
+
+- **New Jersey and Washington DC have smaller customer bases and consequently fewer customers across each RFM segment**. Their relatively limited Champion populations suggest that customer strategies should be aligned with market scale and potential rather than directly replicating the approach used in larger markets.
+
+### Revenue Contribution by Customer Segment and Product
+
+<p align="center"> <img src="./assets/Revenue_Contribution_by_Segment_and_Product.png" width="850"> </p>
+
+- **Revenue is highly concentrated among higher-value customer segments**. Champions contribute 61.42% of total revenue, while At Risk customers contribute a further 25.87%, meaning these two segments collectively account for 87.29% of total revenue. This highlights the importance of protecting existing high-value customers and recovering revenue from customers showing signs of disengagement.
+
+- **The product preferences of Champions and At Risk customers are also remarkably similar**, with Nest Learning Thermostat and Nest Cam products consistently ranking among their highest-revenue products. This suggests that At Risk customers have already demonstrated strong demand for the same high-value product portfolio associated with Champions. In contrast, **New and Lost Customers contribute substantially less revenue from their top products**. The consistency of high-performing products across customer segments suggests that differences in customer value are driven less by fundamentally different product preferences and more by the depth and continuity of engagement with the core product portfolio.
+
+#### Section Takeaways
+
+- Overall, **customer value is concentrated among a relatively small group of high-value customers**, while a **substantial proportion of the customer base remains at risk of churn**. Although **retention strengthened significantly through mid-year, the subsequent decline in Q4** suggests that improved repeat purchasing was not fully sustained.
+
+- The analysis also shows that **customer value is closely connected to continued engagement with the core Nest product portfolio**. Champions and At Risk customers demonstrate similar preferences for high-value Nest products, indicating that customer lifecycle progression is driven more by how consistently customers engage and repurchase than by fundamentally different product preferences.
+
+- Together, these findings highlight **two priorities for the final strategic recommendations: protecting high-value revenue from Champions, and selectively recovering value from At Risk and Lost customers based on their historical purchasing behavior and product affinity**.
+
+## Strategic Recommendations
+
+1. **Optimize Seasonal Revenue Performance**
+
+Prepare inventory and marketing campaigns ahead of the November–December peak, with particular attention to high-demand Nest products. During weaker periods such as May–June, use bundles, cross-selling, and complementary product recommendations to increase AOV and reduce reliance on a small number of core categories.
+
+2. **Scale Proven Product-Market Strategies**
+
+Use Chicago as a benchmark to identify the product mix, customer behavior, and selling approaches behind its stronger performance. Apply relevant strategies to California and New York, where the larger customer base and market potential provide greater room for growth. For smaller markets such as New Jersey and Washington DC, prioritize targeted campaigns around products with proven local demand rather than broad expansion.
+
+3. **Increase Customer Value Through Product-Led Cross-Selling**
+
+Use high-volume categories such as Apparel as entry points to introduce customers to higher-value Nest products. Build targeted bundles and recommendations around proven product associations, particularly Nest Cam Indoor and Nest Cam Outdoor, to increase basket size and encourage multi-product purchases.
+
+4. **Protect High-Value Customers and Recover At-Risk Revenue**
+
+Prioritize Champions and At Risk customers, who collectively generate the majority of revenue. Protect Champions through loyalty benefits and personalized engagement, while using targeted reactivation campaigns for At Risk customers based on their historical purchasing behavior and affinity for high-value Nest products.
+
+5. **Convert Short-Term Demand into Long-Term Retention**
+
+The year-end revenue peak should be treated as an opportunity to strengthen the customer lifecycle, not only as a sales event. Use post-purchase follow-ups, personalized product recommendations, and targeted incentives to encourage repeat purchases and prevent newly acquired or seasonal customers from becoming inactive after the peak period.
