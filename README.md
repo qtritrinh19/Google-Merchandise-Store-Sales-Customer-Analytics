@@ -18,6 +18,9 @@ The analysis leverages **Power Query**, **PivotTables**, and **Power Pivot** in 
 
 **Data Source:** [Marketing Insights for E-Commerce Company — Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
 
+- **Data Preparation & Analysis:** The data preprocessing workflow performed in **Power Query**, along with the **PivotTables**, **PivotCharts**, and metric preparation using **DAX in Power Pivot**, can be found [here](/files).
+
+- 
 ## Data Structure & Initial Checks
 The dataset consists of three tables: *Online_Sales*, *CustomersData*, and *Discount_Coupon*, with the Online_Sales table containing approximately **52,924** transaction records.
 
