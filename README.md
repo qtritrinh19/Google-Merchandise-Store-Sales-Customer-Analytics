@@ -18,9 +18,11 @@ The analysis leverages **Power Query**, **PivotTables**, and **Power Pivot** in 
 
 **Data Source:** [Marketing Insights for E-Commerce Company — Kaggle](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company)
 
-- **Data Preparation & Analysis:** The data preprocessing workflow performed in **Power Query**, along with the **PivotTables**, **PivotCharts**, and metric preparation using **DAX in Power Pivot**, can be found [here](/files).
+- **Data Preparation & Analysis:** The data preprocessing workflow performed in **Power Query**, along with the **PivotTables**, **PivotCharts**, and metric preparation using **DAX in Power Pivot**, can be found [here](/files) (Main_Analysis.xlxs).
 
-- 
+- **RFM & Customer Segmentation:** RFM metrics were calculated using Excel formulas, while **K-Means clustering** was applied to segment customers based on their RFM scores. The Excel calculations and R scripts used for customer segmentation can be found [here](/files) (Main_Analysis.xlxs & RFM_Analysis.R).
+
+- **Association Rule Mining:** The **APRIORI algorithm** was applied in **R** to identify product associations and cross-selling opportunities. The related R script can be found [here](/files) (RS_Analysis.R).
 ## Data Structure & Initial Checks
 The dataset consists of three tables: *Online_Sales*, *CustomersData*, and *Discount_Coupon*, with the Online_Sales table containing approximately **52,924** transaction records.
 
